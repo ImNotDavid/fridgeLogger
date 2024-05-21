@@ -55,3 +55,5 @@ def getTemps(deviceID):
     except:
         data = []
     return data 
+
+
